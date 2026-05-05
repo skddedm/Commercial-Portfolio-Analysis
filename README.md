@@ -54,7 +54,12 @@ overdraft_income
 * Risk analysis was performed to determine the likelihood and impact of the weaknesses that exist in the portfolio
 * Recommendations to be considered were suggested to aid resolve weaknesses discovered after the data analysis.
 
-### 2.1 Data Limitations
+### 2.1 Data Cleaning Process
+* Duplicated customer IDs with customer name deleted
+* Date format converted properly
+* New columns added: overdraft utilization was converted from amount used to percentage utilized
+
+### 2.2 Data Limitations
 * Value Allocation Assumptions: Overdraft amounts, interest income, utilization rate were estimated rather than direct
 attribution, affecting precision.
 * Limited Time Horizon: Analysis based on a single period (FY2026) may not capture seasonality or long-term trends
@@ -62,7 +67,7 @@ over a range of years
 * Exclusion of External Factors: Market conditions, competitors’ pricing and macroeconomics impacts were not fully
 incorporated.
 
-### 2.2 Overdraft Lifecycle
+### 2.3 Overdraft Lifecycle
 The following diagrams summarizes the overdraft life cycle adopted by the bank
 <img width="969" height="288" alt="image" src="https://github.com/user-attachments/assets/f16b5448-38e6-43ef-8395-246af7475189" />
 
