@@ -73,6 +73,8 @@ The following diagrams summarizes the overdraft life cycle adopted by the bank
 
 # 3 Project Outcomes
 Based on the project objective, the following key performance areas were discovered:
+<img width="1305" height="725" alt="image" src="https://github.com/user-attachments/assets/decfa104-cf6b-4e76-a37e-e941c9e85675" />
+
 ### 3.1 Strengths
 * The number of customers and overdraft exposure are fairly distributed across the 8 industries without concentration risk
 * Average overdraft utilization ranges between 1% and 70% over the first quarter of 2026.
@@ -167,10 +169,12 @@ The following strategies have been recommended to aid resolve the identified wea
 |Collateral yet to be perfected|* Develop a centralized database to monitor collateral documentation status and perfection stages across the portfolio     |
 |                              |* Set up alerts for pending or overdue collateral perfection                                                               |
 |                              |* Perform quarterly audits on collateral records to ensure all securities are legally enforceable and properly documented  |
+                    
+# 5.0 Future
+* Integrate live portfolio data
+* Build a web-based dashboard using Power BI embedded
 
-
-                      
-
+Data Source: 
 
 
 
