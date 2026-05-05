@@ -119,17 +119,52 @@ The risk metrics is defined by the risk level rating, likelihood rating and impa
 ### 3.1 Risk Level
 Risk level rating is defined by the likelihood rating and impact rating of each risk area.
 
+| Risk Level | Rating    |
+|------------|-----------|
+|Low Risk	   |2 and below|
+|Medium Risk |3 - 4      |
+|High Risk   |5 and above|
 
-| Risk Level | Rating |
-_______________________
-|Low Risk	|2 and below|
+### 3.2 Likelihood
+Defined as the possibility of the risk area occurring. The number of the affected overdraft expressed as a percentage of the total number of overdraft approvals defines the likelihood.
+|Likelihood   |Percentage         |Rating|
+|-------------|-------------------|------|
+|Unlikely     |Less than 5%       |1     |
+|Likely       |Between 6% and 40% |2     |
+|Very Likely  |Higher than 40%    |3     |
 
-Medium Risk	3 - 4
-High Risk	5 and above
+### 3.3 Impact
+Defined as the overdraft amount value that can be affected in relation to the expressed likelihood. 
+|Impact Severity |Financial Impacted               |Rating      |Investigation and Resolution Timeline|
+|----------------|---------------------------------|------------|-------------------------------------|
+|Minor           |Less than $5,000,000             |1           |Up to 2 months                       |
+|Serious         |Between $5,000,001 and $8,000,000|2           |Up to 1 month                        |
+|Major           |Higher than $8,000,000           |3           |Up to 1 week                         |
+
+### 3.4 Commercial Portfolio Risk Assessment Summary
+The three weaknesses identified have been assessed in the table below:
+|Risk Category                 |Likelihood Rating |Financial Impact Severity  | Risk Rating (likelihood rating + financial impact rating)|Risk Level|
+|------------------------------|------------------|---------------------------|----------------------------------------------------------|----------|
+|Poor customer credit score    |2                 |3                          |5                                                         |High      |
+|OD Approved beyond 15days TAT |2                 |3                          |5                                                         |High      |
+|Collateral yet to be perfected|1                 |2                          |3                                                         |Medium    |
+
+# 4.0 Strategy Recommendation
+The following strategies have been recommended to aid resolve the identified weaknesses with the commercial portfolio of Assurance Bank in Alberta.
+|Identified Weaknesses         |Recommendation                                                                                                             |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+|Poor customer credit score    |* Adjust interest rates and exposure limits for lower-rated customers to compensate for higher risk                        |
+|                              |* Track financial performance, utilization, and repayment behavior more frequently to detect early signs of deterioration  |
+|------------------------------|* Enforce stricter covenants and require more frequent financial reporting to maintain tighter control                     |
+|OD Approved beyond 15days     |* Establish real-time dashboards to track processing timelines by analyst and stage                                        |
+|                              |* Implement workflow automation for document verification, checklist tracking, and approvals                               |
+|------------------------------|* Create a fast-track approval process for low-risk customers to reduce processing time and improve client experience      |
+|Collateral yet to be perfected|* Develop a centralized database to monitor collateral documentation status and perfection stages across the portfolio     |
+|                              |* Set up alerts for pending or overdue collateral perfection                                                               |
+|                              |* Perform quarterly audits on collateral records to ensure all securities are legally enforceable and properly documented  |
 
 
-
-
+                      
 
 
 
