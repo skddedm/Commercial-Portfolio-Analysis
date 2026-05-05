@@ -173,9 +173,3 @@ The following strategies have been recommended to aid resolve the identified wea
 # 5.0 Future
 * Integrate live portfolio data
 * Build a web-based dashboard using Power BI embedded
-
-Data Source: 
-
-
-
-  
