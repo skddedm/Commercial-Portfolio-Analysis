@@ -1,3 +1,7 @@
+# Table of Content
+* [1.0 Executive Summary](
+
+
 # 1.0 Executive Summary
 The commercial loan portfolio book is critical in driving income and value to the operation of the bank into the foreseeable
 future. An imaginary bank - Assurance Bank was used in this project.
