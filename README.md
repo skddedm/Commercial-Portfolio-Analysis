@@ -4,7 +4,7 @@
 * [3.0 Project Outcomes](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#30-project-outcomes)
 * [4.0 Risk Metrics](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#40-risk-metrics)
 * [5.0 Strategy Recommendation](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#50-strategy-recommendation)
-* [6.0 Future Project Continuity](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#50-future)
+* [6.0 Future Project Continuity](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#60-future-project-continuity)
 
 # 1.0 Executive Summary
 The commercial loan portfolio book is critical in driving income and value to the operation of the bank into the foreseeable
