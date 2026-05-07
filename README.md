@@ -1,16 +1,20 @@
 # Table of Content
-* [1.0 Executive Summary](
-
+* [1.0 Executive Summary](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#10-executive-summary)
+* [2.0 Methodology](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#20-methodology)
+* [3 Project Outcomes](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#3-project-outcomes)
+* [4.0 Risk Metrics](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#30-risk-metrics)
+* [5.0 Strategy Recommendation](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#40-strategy-recommendation)
+* [6.0 Future Project Continuity](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#50-future)
 
 # 1.0 Executive Summary
 The commercial loan portfolio book is critical in driving income and value to the operation of the bank into the foreseeable
 future. An imaginary bank - Assurance Bank was used in this project.
 
-### 2.1 Problem Statement:
+### 1.1 Problem Statement:
 The bank could not claim possession of the collateral of of a recently defaulted customer due to imperfect collateral registration
 into the bank’s custody.
 
-### 2.2 Project Objective:
+### 1.2 Project Objective:
 The objective of this project analyzes the bank’s commercial loan portfolio quality, risk and growth factors. The key
 determinants are:
 * Credit worthiness of customer entry into the portfolio
@@ -21,7 +25,7 @@ determinants are:
 * Non-performance risk tracking
 * Collateral management (perfection and monitoring)
 
-### 2.3 Project Scope:
+### 1.3 Project Scope:
 * The commercial overdraft portfolio is the focus
 * All customers operate within the province of Alberta
 * 7300 commercial overdraft customers make up the portfolio since 2009 and 2026
@@ -37,11 +41,11 @@ determinants are:
   560 - 659: Fair
   559 and below: Poor
 
-### 2.4 Tools Deployed:
+### 1.4 Tools Deployed:
 * Power query
 * Power BI
 
-### 2.5 Summary Project Findings:
+### 1.5 Summary Project Findings:
 The commercial overdraft portfolio is well balanced with income generation, utilization, growth and diversity across the 8
 industries of lending but heavily strong on performance and collateral monitoring. It shows 0% overdue overdraft and 100%
 collateral monitoring. However, it contains 5.21% poorly credit-rated customers, 36% delayed processing and 0.6% collateral
@@ -124,10 +128,10 @@ There exist a minor gap in legal perfection of collateral. Even though minimal, 
 
 <img width="375" height="155" alt="image" src="https://github.com/user-attachments/assets/f4a342b1-1743-4990-833f-6b91558aa8e3" />
 
-# 3.0 Risk Metrics
+# 4.0 Risk Metrics
 The risk metrics is defined by the risk level rating, likelihood rating and impact rating. 
 
-### 3.1 Risk Level
+### 4.1 Risk Level
 Risk level rating is defined by the likelihood rating and impact rating of each risk area.
 
 | Risk Level | Rating    |
@@ -136,15 +140,15 @@ Risk level rating is defined by the likelihood rating and impact rating of each 
 |Medium Risk |3 - 4      |
 |High Risk   |5 and above|
 
-### 3.2 Likelihood
-Defined as the possibility of the risk area occurring. The number of the affected overdraft expressed as a percentage of the total number of overdraft approvals defines the likelihood.
+### 4.2 Likelihood
+Defined as the possibility of the risk area occurring. The number of the affected overdraft expressed as a percentage of the total number of overdraft appr4vals defines the likelihood.
 |Likelihood   |Percentage         |Rating|
 |-------------|-------------------|------|
 |Unlikely     |Less than 5%       |1     |
 |Likely       |Between 6% and 40% |2     |
 |Very Likely  |Higher than 40%    |3     |
 
-### 3.3 Impact
+### 4.3 Impact
 Defined as the overdraft amount value that can be affected in relation to the expressed likelihood. 
 |Impact Severity |Financial Impacted               |Rating      |Investigation and Resolution Timeline|
 |----------------|---------------------------------|------------|-------------------------------------|
@@ -152,7 +156,7 @@ Defined as the overdraft amount value that can be affected in relation to the ex
 |Serious         |Between $5,000,001 and $8,000,000|2           |Up to 1 month                        |
 |Major           |Higher than $8,000,000           |3           |Up to 1 week                         |
 
-### 3.4 Commercial Portfolio Risk Assessment Summary
+### 4.4 Commercial Portfolio Risk Assessment Summary
 The three weaknesses identified have been assessed in the table below:
 |Risk Category                 |Likelihood Rating |Financial Impact Severity  | Risk Rating (likelihood rating + financial impact rating)|Risk Level|
 |------------------------------|------------------|---------------------------|----------------------------------------------------------|----------|
@@ -160,7 +164,7 @@ The three weaknesses identified have been assessed in the table below:
 |OD Approved beyond 15days TAT |2                 |3                          |5                                                         |High      |
 |Collateral yet to be perfected|1                 |2                          |3                                                         |Medium    |
 
-# 4.0 Strategy Recommendation
+# 5.0 Strategy Recommendation
 The following strategies have been recommended to aid resolve the identified weaknesses with the commercial portfolio of Assurance Bank in Alberta.
 |Identified Weaknesses         |Recommendation                                                                                                             |
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -174,6 +178,6 @@ The following strategies have been recommended to aid resolve the identified wea
 |                              |* Set up alerts for pending or overdue collateral perfection                                                               |
 |                              |* Perform quarterly audits on collateral records to ensure all securities are legally enforceable and properly documented  |
                     
-# 5.0 Future
+# 6.0 Future Project Continuity
 * Integrate live portfolio data
 * Build a web-based dashboard using Power BI embedded
