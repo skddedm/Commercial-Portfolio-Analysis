@@ -3,7 +3,7 @@
 * [2.0 Methodology](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#20-methodology)
 * [3.0 Project Outcomes](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#30-project-outcomes)
 * [4.0 Risk Metrics](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#40-risk-metrics)
-* [5.0 Strategy Recommendation](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#40-strategy-recommendation)
+* [5.0 Strategy Recommendation](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#50-strategy-recommendation)
 * [6.0 Future Project Continuity](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#50-future)
 
 # 1.0 Executive Summary
