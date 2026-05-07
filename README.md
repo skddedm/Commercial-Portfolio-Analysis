@@ -1,7 +1,7 @@
 # Table of Content
 * [1.0 Executive Summary](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#10-executive-summary)
 * [2.0 Methodology](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#20-methodology)
-* [3 Project Outcomes](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#3-project-outcomes)
+* [3.0 Project Outcomes](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#3-project-outcomes)
 * [4.0 Risk Metrics](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#30-risk-metrics)
 * [5.0 Strategy Recommendation](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#40-strategy-recommendation)
 * [6.0 Future Project Continuity](https://github.com/skddedm/Commercial-Portfolio-Analysis/blob/main/README.md#50-future)
@@ -79,7 +79,7 @@ incorporated.
 The following diagrams summarizes the overdraft life cycle adopted by the bank
 <img width="969" height="288" alt="image" src="https://github.com/user-attachments/assets/f16b5448-38e6-43ef-8395-246af7475189" />
 
-# 3 Project Outcomes
+# 3.0 Project Outcomes
 Based on the project objective, the following key performance areas were discovered:
 <img width="1305" height="725" alt="image" src="https://github.com/user-attachments/assets/decfa104-cf6b-4e76-a37e-e941c9e85675" />
 
